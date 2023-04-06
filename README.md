@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Josh github Stats](https://github-readme-stats.vercel.app/api?username=JoshEflin&theme=prussian&show_icons=true&count_private=true “Andres’ GutHub Stats”)
+![Josh github Stats](https://github-readme-stats.vercel.app/api?username=JoshEflin&theme=prussian&show_icons=true&count_private=true “Josh GitHub Stats”)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshEflin&theme=prussian “Josh's Top Languages Card”)
 <!--
 **JoshEflin/JoshEflin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
