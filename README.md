@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Josh github Stats](https://github-readme-stats.vercel.app/api?username=JoshEflin&theme=prussian&show_icons=true&count_private=true “Andres’ GutHub Stats”)
 <!--
 **JoshEflin/JoshEflin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
