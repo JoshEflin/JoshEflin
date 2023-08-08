@@ -3,7 +3,9 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshEflin&theme=prussian)
-
+- 🔭 I’m currently working on ... Trade Tiger- an application for trading stock options
+- 🌱 I’m currently learning ...  websockets, shell scripting, typescript 
+- 🤔 I’m looking for help with ...Sanity
 
 <!--
 **JoshEflin/JoshEflin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
