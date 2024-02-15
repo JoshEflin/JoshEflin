@@ -3,8 +3,8 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshEflin&theme=prussian)
-- 🔭 I’m currently working on ... Trade Tiger- an application for trading stock options, expected Beta(Jan)
-- 🌱 I’m currently learning ...   lua, neovim, C
+- 🔭 I’m currently working on ... Trade Tiger- an application for trading stock options, expected Beta(April)
+- 🌱 I’m currently learning ...   lua, C, Bash
 
 <!--
 **JoshEflin/JoshEflin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
