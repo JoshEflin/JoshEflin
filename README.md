@@ -5,6 +5,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshEflin&theme=prussian)
 - 🔭 I’m currently working on ... A new portfolio
 - 🌱 I’m currently learning ...   Go, lua
+- I'm working my way through "Writing an Interpreter in Go", and "translating it into typescript as I go to make sure I have an adequate understanding of the functionality 
+  with the end goal being to build a Recursive descent parser so that users can execute commands on my portfolio for maximum lulz 
 
 <!--
 **JoshEflin/JoshEflin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
