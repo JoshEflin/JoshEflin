@@ -2,7 +2,7 @@
 ![Josh github Stats](https://github-readme-stats.vercel.app/api?username=JoshEflin&theme=prussian&show_icons=true&count_private=true)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshEflin&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshEflin&theme=prussian&hide=html,css)
 
 ⚡ Fun fact: I was born with no sense of smell.
 
